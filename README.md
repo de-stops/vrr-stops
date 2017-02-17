@@ -13,8 +13,8 @@ It starts from bounding box `(5, 47, 15, 56)` and works down to smaller quadrant
 The script produces CSV output in the following format:
 
 ```
-"stop_id","stop_name","stop_lon","stop_lat"
-"80006965","Neu Wokern, Neu Wokern",12.50092,53.76003
+"stop_id","stop_name","stop_lon","stop_lat","stop_code"
+"20023337","Niederkrüchten, Elmpt D.Zollamt",6.12488,51.20878,"de:5166:23337"
 ```
 
 # Usage
